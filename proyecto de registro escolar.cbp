@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyecto de registro escolar" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyecto de registro escolar" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyecto de registro escolar" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Funciones.cpp" />
+		<Unit filename="Funciones.h" />
+		<Unit filename="clsAlumnoXObra.cpp" />
+		<Unit filename="clsAlumnoXObra.h" />
+		<Unit filename="clsAlumnos.cpp" />
+		<Unit filename="clsAlumnos.h" />
+		<Unit filename="clsArchivoAlumnoXObra.cpp" />
+		<Unit filename="clsArchivoAlumnoXObra.h" />
+		<Unit filename="clsArchivoAlumnos.cpp" />
+		<Unit filename="clsArchivoAlumnos.h" />
+		<Unit filename="clsArchivoEvaluaciones.cpp" />
+		<Unit filename="clsArchivoEvaluaciones.h" />
+		<Unit filename="clsArchivoObras.cpp" />
+		<Unit filename="clsArchivoObras.h" />
+		<Unit filename="clsArchivoObrasXTeatro.cpp" />
+		<Unit filename="clsArchivoObrasXTeatro.h" />
+		<Unit filename="clsArchivoTeatro.cpp" />
+		<Unit filename="clsArchivoTeatro.h" />
+		<Unit filename="clsEvaluaciones.cpp" />
+		<Unit filename="clsEvaluaciones.h" />
+		<Unit filename="clsFecha.cpp" />
+		<Unit filename="clsFecha.h" />
+		<Unit filename="clsObras.cpp" />
+		<Unit filename="clsObras.h" />
+		<Unit filename="clsObrasXTeatro.cpp" />
+		<Unit filename="clsObrasXTeatro.h" />
+		<Unit filename="clsPersona.h" />
+		<Unit filename="clsTeatro.cpp" />
+		<Unit filename="clsTeatro.h" />
+		<Unit filename="clspersona.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

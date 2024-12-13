@@ -1,0 +1,749 @@
+# depslib dependency file v1.0
+1731544764 source:c:\users\tomas\desktop\proyecto de registro escolar\main.cpp
+	<iostream>
+	"Funciones.h"
+	"clsAlumnos.h"
+
+1727982800 c:\users\tomas\desktop\proyecto de registro escolar\clsfecha.h
+
+1732070762 source:c:\users\tomas\desktop\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsEvaluaciones.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsAlumnos.h"
+	"clsObrasXTeatro.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoEvaluaciones.h"
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoAlumnos.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoObrasXTeatro.h"
+	"Funciones.h"
+
+1732062327 c:\users\tomas\desktop\proyecto de registro escolar\funciones.h
+
+1732056879 c:\users\tomas\desktop\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1730947822 source:c:\users\tomas\desktop\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+
+1732057671 source:c:\users\tomas\desktop\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+	"clsArchivoAlumnos.h"
+
+1728431050 c:\users\tomas\desktop\proyecto de registro escolar\clsalumno.h
+	"clsPersona.h"
+
+1728484466 source:c:\users\tomas\desktop\proyecto de registro escolar\clsalumno.cpp
+	<iostream>
+	"clsAlumno.h"
+
+1728473247 source:c:\users\pc-01\desktop\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+
+1727982800 c:\users\pc-01\desktop\proyecto de registro escolar\clsfecha.h
+
+1728473201 source:c:\users\pc-01\desktop\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+
+1728430856 c:\users\pc-01\desktop\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1728428574 c:\users\pc-01\desktop\proyecto de registro escolar\funciones.h
+
+1728428574 source:c:\users\pc-01\desktop\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1728431068 source:c:\users\pc-01\desktop\proyecto de registro escolar\main.cpp
+	<iostream>
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsAlumno.h"
+
+1728431050 c:\users\pc-01\desktop\proyecto de registro escolar\clsalumno.h
+	"clsPersona.h"
+
+1728477824 source:c:\users\pc-01\desktop\proyecto de registro escolar\clsalumno.cpp
+	<iostream>
+	"clsAlumno.h"
+
+1728478420 source:c:\users\tomas\desktop\proyecto de registro escolar\clsnotas.cpp
+
+1730870925 source:c:\users\tomas\desktop\proyecto de registro escolar\archevaluaciones.cpp
+	"archEvaluaciones.h"
+	<iostream>
+	<cstdio>
+
+1730870645 c:\users\tomas\desktop\proyecto de registro escolar\archevaluaciones.h
+	"clsEvaluaciones.h"
+	<string>
+
+1732069224 c:\users\tomas\desktop\proyecto de registro escolar\clsevaluaciones.h
+
+1732057256 source:c:\users\tomas\desktop\proyecto de registro escolar\clsalumnos.cpp
+	<iostream>
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	"Funciones.h"
+
+1732043524 c:\users\tomas\desktop\proyecto de registro escolar\clsalumnos.h
+	"clsPersona.h"
+
+1732069224 source:c:\users\tomas\desktop\proyecto de registro escolar\clsevaluaciones.cpp
+	"clsEvaluaciones.h"
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	<iostream>
+	<limits>
+
+1731436630 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoalumnos.h
+	"clsAlumnos.h"
+
+1732038312 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoalumnos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnos.h"
+
+1732069881 c:\users\tomas\desktop\proyecto de registro escolar\clsteatro.h
+
+1732061614 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoTeatro.h"
+
+1730877712 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoteatro.h
+	"clsTeatro.h"
+
+1732071454 source:c:\users\tomas\desktop\proyecto de registro escolar\clsteatro.cpp
+	<iostream>
+	<cstring>
+	"clsTeatro.h"
+	"clsArchivoTeatro.h"
+	"Funciones.h"
+
+1732050151 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+
+1732050151 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoobras.h
+	"clsObras.h"
+
+1732051431 c:\users\tomas\desktop\proyecto de registro escolar\clsobras.h
+	"clsFecha.h"
+
+1732065412 source:c:\users\tomas\desktop\proyecto de registro escolar\clsobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsObras.h"
+	"clsFecha.h"
+	"Funciones.h"
+
+1571584340 c:\users\tomas\desktop\proyecto de registro escolar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731028731 source:c:\users\tomas\desktop\proyecto de registro escolar\clsevaluacionxalumno.cpp
+	<iostream>
+	"clsEvaluacionXAlumno.h"
+
+1731027703 c:\users\tomas\desktop\proyecto de registro escolar\clsevaluacionxalumno.h
+
+1732055651 source:c:\users\tomas\desktop\proyecto de registro escolar\clsalumnoxobra.cpp
+	<iostream>
+	"rlutil.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoAlumnos.h"
+	"clsObras.h"
+	"clsArchivoObras.h"
+
+1731172214 c:\users\tomas\desktop\proyecto de registro escolar\clsalumnoxobra.h
+
+1731462758 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoalumnoxobra.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnoXObra.h"
+	"clsAlumnoXObra.h"
+
+1731436630 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoalumnoxobra.h
+	"clsAlumnoXObra.h"
+
+1731558576 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoobrasxteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObrasXTeatro.h"
+	"clsObrasXTeatro.h"
+
+1731556508 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoobrasxteatro.h
+	"clsObrasXTeatro.h"
+
+1731556142 c:\users\tomas\desktop\proyecto de registro escolar\clsobrasxteatro.h
+
+1732068938 source:c:\users\tomas\desktop\proyecto de registro escolar\clsobrasxteatro.cpp
+	<iostream>
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoObrasXTeatro.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsObrasXTeatro.h"
+
+1732069225 source:c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoevaluaciones.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoEvaluaciones.h"
+
+1732069226 c:\users\tomas\desktop\proyecto de registro escolar\clsarchivoevaluaciones.h
+	"clsEvaluaciones.h"
+
+1732057258 source:c:\users\alumno\desktop\proyecto de registro escolar\clsalumnos.cpp
+	<iostream>
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	"Funciones.h"
+
+1732043526 c:\users\alumno\desktop\proyecto de registro escolar\clsalumnos.h
+	"clsPersona.h"
+
+1732056880 c:\users\alumno\desktop\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1727982800 c:\users\alumno\desktop\proyecto de registro escolar\clsfecha.h
+
+1731436630 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoalumnos.h
+	"clsAlumnos.h"
+
+1732055652 source:c:\users\alumno\desktop\proyecto de registro escolar\clsalumnoxobra.cpp
+	<iostream>
+	"rlutil.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoAlumnos.h"
+	"clsObras.h"
+	"clsArchivoObras.h"
+
+1571584340 c:\users\alumno\desktop\proyecto de registro escolar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731172214 c:\users\alumno\desktop\proyecto de registro escolar\clsalumnoxobra.h
+
+1731436630 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoalumnoxobra.h
+	"clsAlumnoXObra.h"
+
+1732051432 c:\users\alumno\desktop\proyecto de registro escolar\clsobras.h
+	"clsFecha.h"
+
+1732050152 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoobras.h
+	"clsObras.h"
+
+1732038314 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoalumnos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnos.h"
+
+1731462758 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoalumnoxobra.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnoXObra.h"
+	"clsAlumnoXObra.h"
+
+1732069226 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoevaluaciones.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoEvaluaciones.h"
+
+1732069228 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoevaluaciones.h
+	"clsEvaluaciones.h"
+
+1732069226 c:\users\alumno\desktop\proyecto de registro escolar\clsevaluaciones.h
+
+1732050152 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+
+1731558576 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoobrasxteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObrasXTeatro.h"
+	"clsObrasXTeatro.h"
+
+1731556508 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoobrasxteatro.h
+	"clsObrasXTeatro.h"
+
+1731556142 c:\users\alumno\desktop\proyecto de registro escolar\clsobrasxteatro.h
+
+1732061616 source:c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoTeatro.h"
+
+1730877712 c:\users\alumno\desktop\proyecto de registro escolar\clsarchivoteatro.h
+	"clsTeatro.h"
+
+1732069882 c:\users\alumno\desktop\proyecto de registro escolar\clsteatro.h
+
+1732069226 source:c:\users\alumno\desktop\proyecto de registro escolar\clsevaluaciones.cpp
+	"clsEvaluaciones.h"
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	<iostream>
+	<limits>
+
+1730947822 source:c:\users\alumno\desktop\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+
+1732065414 source:c:\users\alumno\desktop\proyecto de registro escolar\clsobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsObras.h"
+	"clsFecha.h"
+	"Funciones.h"
+
+1732062328 c:\users\alumno\desktop\proyecto de registro escolar\funciones.h
+
+1732068940 source:c:\users\alumno\desktop\proyecto de registro escolar\clsobrasxteatro.cpp
+	<iostream>
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoObrasXTeatro.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsObrasXTeatro.h"
+
+1732057672 source:c:\users\alumno\desktop\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+	"clsArchivoAlumnos.h"
+
+1732071456 source:c:\users\alumno\desktop\proyecto de registro escolar\clsteatro.cpp
+	<iostream>
+	<cstring>
+	"clsTeatro.h"
+	"clsArchivoTeatro.h"
+	"Funciones.h"
+
+1731544764 source:c:\users\alumno\desktop\proyecto de registro escolar\main.cpp
+	<iostream>
+	"Funciones.h"
+	"clsAlumnos.h"
+
+1732107632 source:c:\users\alumno\desktop\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsEvaluaciones.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsAlumnos.h"
+	"clsObrasXTeatro.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoEvaluaciones.h"
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoAlumnos.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoObrasXTeatro.h"
+	"Funciones.h"
+
+1733586174 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsalumnos.cpp
+	<iostream>
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	"Funciones.h"
+	<limits>
+	<cstring>
+
+1732043526 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsalumnos.h
+	"clsPersona.h"
+
+1732056880 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1727982800 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsfecha.h
+
+1731436630 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoalumnos.h
+	"clsAlumnos.h"
+
+1732062328 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\funciones.h
+
+1733586188 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsalumnoxobra.cpp
+	<iostream>
+	"rlutil.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoAlumnos.h"
+	"clsObras.h"
+	"clsArchivoObras.h"
+
+1571584340 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731172214 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsalumnoxobra.h
+
+1731436630 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoalumnoxobra.h
+	"clsAlumnoXObra.h"
+
+1732051432 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsobras.h
+	"clsFecha.h"
+
+1733421765 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoobras.h
+	"clsObras.h"
+
+1732038314 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoalumnos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnos.h"
+
+1731462758 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoalumnoxobra.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnoXObra.h"
+	"clsAlumnoXObra.h"
+
+1732069226 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoevaluaciones.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoEvaluaciones.h"
+
+1732069228 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoevaluaciones.h
+	"clsEvaluaciones.h"
+
+1732069226 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsevaluaciones.h
+
+1733586285 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsArchivoAlumnoXObra.h"
+
+1731558576 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoobrasxteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObrasXTeatro.h"
+	"clsObrasXTeatro.h"
+
+1731556508 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoobrasxteatro.h
+	"clsObrasXTeatro.h"
+
+1731556142 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsobrasxteatro.h
+
+1732061616 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoTeatro.h"
+
+1730877712 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsarchivoteatro.h
+	"clsTeatro.h"
+
+1732069882 c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsteatro.h
+
+1732069226 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsevaluaciones.cpp
+	"clsEvaluaciones.h"
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	<iostream>
+	<limits>
+
+1733257911 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+	<limits>
+
+1733586285 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsObras.h"
+	"clsFecha.h"
+	"Funciones.h"
+	<limits>
+
+1733773425 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsobrasxteatro.cpp
+	<iostream>
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoObrasXTeatro.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsObrasXTeatro.h"
+
+1733586337 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+	"clsArchivoAlumnos.h"
+
+1733774031 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\clsteatro.cpp
+	<iostream>
+	<cstring>
+	"clsTeatro.h"
+	"clsArchivoTeatro.h"
+	"Funciones.h"
+	<limits>
+
+1733774579 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsEvaluaciones.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsAlumnos.h"
+	"clsObrasXTeatro.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoEvaluaciones.h"
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoAlumnos.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoObrasXTeatro.h"
+	"Funciones.h"
+
+1731544764 source:c:\users\gonzalo\downloads\proyecto escolar solo version\proyecto de registro escolar\main.cpp
+	<iostream>
+	"Funciones.h"
+	"clsAlumnos.h"
+
+1733858861 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsalumnos.cpp
+	<iostream>
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	"Funciones.h"
+	<limits>
+	<cstring>
+
+1732043526 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsalumnos.h
+	"clsPersona.h"
+
+1732056880 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1727982800 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsfecha.h
+
+1731436630 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoalumnos.h
+	"clsAlumnos.h"
+
+1732062328 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\funciones.h
+
+1733586188 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsalumnoxobra.cpp
+	<iostream>
+	"rlutil.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoAlumnos.h"
+	"clsObras.h"
+	"clsArchivoObras.h"
+
+1571584340 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731172214 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsalumnoxobra.h
+
+1731436630 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoalumnoxobra.h
+	"clsAlumnoXObra.h"
+
+1732051432 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsobras.h
+	"clsFecha.h"
+
+1733421765 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoobras.h
+	"clsObras.h"
+
+1732038314 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoalumnos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnos.h"
+
+1731462758 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoalumnoxobra.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAlumnoXObra.h"
+	"clsAlumnoXObra.h"
+
+1732069226 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoevaluaciones.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoEvaluaciones.h"
+
+1732069228 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoevaluaciones.h
+	"clsEvaluaciones.h"
+
+1732069226 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsevaluaciones.h
+
+1733586285 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsArchivoAlumnoXObra.h"
+
+1731558576 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoobrasxteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObrasXTeatro.h"
+	"clsObrasXTeatro.h"
+
+1731556508 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoobrasxteatro.h
+	"clsObrasXTeatro.h"
+
+1731556142 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsobrasxteatro.h
+
+1732061616 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoteatro.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoTeatro.h"
+
+1730877712 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsarchivoteatro.h
+	"clsTeatro.h"
+
+1732069882 c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsteatro.h
+
+1733775319 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsevaluaciones.cpp
+	"clsEvaluaciones.h"
+	"clsAlumnos.h"
+	"clsArchivoAlumnos.h"
+	<iostream>
+	<limits>
+
+1733257911 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+	<limits>
+
+1733586285 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsobras.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoObras.h"
+	"clsObras.h"
+	"clsFecha.h"
+	"Funciones.h"
+	<limits>
+
+1733773425 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsobrasxteatro.cpp
+	<iostream>
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoObrasXTeatro.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsObrasXTeatro.h"
+
+1733586337 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+	"clsArchivoAlumnos.h"
+
+1733774031 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\clsteatro.cpp
+	<iostream>
+	<cstring>
+	"clsTeatro.h"
+	"clsArchivoTeatro.h"
+	"Funciones.h"
+	<limits>
+
+1733775940 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsEvaluaciones.h"
+	"clsObras.h"
+	"clsTeatro.h"
+	"clsAlumnos.h"
+	"clsObrasXTeatro.h"
+	"clsAlumnoXObra.h"
+	"clsArchivoEvaluaciones.h"
+	"clsArchivoObras.h"
+	"clsArchivoTeatro.h"
+	"clsArchivoAlumnos.h"
+	"clsArchivoAlumnoXObra.h"
+	"clsArchivoObrasXTeatro.h"
+	"Funciones.h"
+
+1731544764 source:c:\users\gonzalo\downloads\proyecto escolar solo version\nueva carpeta\proyecto de registro escolar final\proyecto de registro escolar\main.cpp
+	<iostream>
+	"Funciones.h"
+	"clsAlumnos.h"
+
